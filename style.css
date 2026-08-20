@@ -15,9 +15,9 @@
 .tema-escuro {
     --cor-primaria: #4994eb;
     --cor-secundaria: #98caff;
-    --cor-fundo: #0f172a;
+    --cor-fundo: #000000;
     --cor-texto: #ffffff;
-    --cor-contraste: #93b6ee;
+    --cor-contraste: #ef8ecf;
     --cor-botao: #151428;
 }
 
